@@ -8,8 +8,9 @@ This Python program calculates profit margins and VAT charges for a given item. 
 Usage
 
 To use the program, simply run it in a terminal or command prompt and enter the cost of the item as input. The program will then calculate the markup, VAT charges, and total price.
-
 python profit_margins_calculator.py
+
+There's also an HTML file you can open in your browser for easier access.
 
 Enter the cost of the item: 100
 
